@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "About me"
    link: "https://robinpredict.github.io/"
  - name: "Resume in Chinese"
    link: "高若滨简历.pdf"
