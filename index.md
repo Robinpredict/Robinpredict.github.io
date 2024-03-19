@@ -10,6 +10,15 @@ Hi! I received my BEng degree from Jilin University, China. Then, I received the
 
 My Ph.D. was co-supervised by [Prof. Suganthan](https://scholar.google.com/citations?user=yZNzBU0AAAAJ&hl=zh-CN) (IEEE Fellow), [Asst Prof. Yuen Kum Fai](https://dr.ntu.edu.sg/cris/rp/rp00720), and [Dr. Okan Duru](https://scholar.google.se/citations?user=JT_KdJgAAAAJ&hl=en). You can find the full publication list at my [Google Scholar](https://scholar.google.se/citations?user=PrIHu7QAAAAJ&hl=en&oi=ao).
 
+## Academic Service
+Associate editor at [Computers & Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)
+
+Guest editor at [Information Fusion](https://www.sciencedirect.com/journal/information-fusion), Topic: Multi-source data fusion for sustainable cities
+
+Guest editor at [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence), Topic: Advanced machine learning for the maritime industry
+
+Session chair at ICONIP 2023.
+
 ## Research Interest
 
 My research interests include machine learning, randomized neural networks, time series forecasting, and artificial intelligence for the maritime industry.
