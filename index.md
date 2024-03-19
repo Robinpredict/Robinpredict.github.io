@@ -21,6 +21,8 @@ Guest editor at [Computers & Electrical Engineering](https://www.sciencedirect.c
 
 Session chair at ICONIP 2023.
 
+Reviewers for IEEE TNNLS, T-SMC-Systems, TVT, TFS; Elsevier PRJ, ASOC, EAAI, CAEE, APEN; Springer NCAA; PVLDB, CIKM
+
 ## Research Interest
 
 My research interests include machine learning, randomized neural networks, time series forecasting, and artificial intelligence for the maritime industry.
