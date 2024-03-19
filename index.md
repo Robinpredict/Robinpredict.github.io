@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. My Ph.D. was obtained from the School of Civil and Environmental Engineering, Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. He am the guest editor of Information Fusion and Engineering Applications of Artificial Intelligence. I am the chair of an invited session at ICONIP 2023. ![image](https://github.com/Robinpredict/Robinpredict.github.io/assets/43084921/a8bb62dc-5653-44c0-8d18-5522d67f1f53)
+Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. My Ph.D. was obtained from the School of Civil and Environmental Engineering, Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. He am the guest editor of Information Fusion and Engineering Applications of Artificial Intelligence. I am the chair of an invited session at ICONIP 2023.
 
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
