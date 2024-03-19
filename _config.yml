@@ -22,3 +22,5 @@ nav:
    link: "高若滨简历.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Publications"
+   link: "publication"
