@@ -22,8 +22,3 @@ My research interests include machine learning, randomized neural networks, time
 
 
 > To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
