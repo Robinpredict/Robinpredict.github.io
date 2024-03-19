@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="GRB.jpg">
 
-Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. My Ph.D. was obtained from  Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. I am the guest editor of Information Fusion and Engineering Applications of Artificial Intelligence. I am the chair of an invited session at ICONIP 2023.
+Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc and Ph.D. degree from  Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. I am the guest editor of Information Fusion and Engineering Applications of Artificial Intelligence. I am the chair of an invited session at ICONIP 2023.
 
-
+My Ph.D. was co-supervised by [Prof. Suganthan](https://scholar.google.com/citations?user=yZNzBU0AAAAJ&hl=zh-CN), [Asst Prof. Yuen Kum Fai](https://dr.ntu.edu.sg/cris/rp/rp00720), and [Dr. Okan Duru](https://scholar.google.se/citations?user=JT_KdJgAAAAJ&hl=en). You can find the full publication list at my [Google Scholar](https://scholar.google.se/citations?user=PrIHu7QAAAAJ&hl=en&oi=ao).
 
 ## Research Interest
 
