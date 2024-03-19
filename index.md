@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="GRB.jpg">
 
 Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. My Ph.D. was obtained from the School of Civil and Environmental Engineering, Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. He am the guest editor of Information Fusion and Engineering Applications of Artificial Intelligence. I am the chair of an invited session at ICONIP 2023.
 
