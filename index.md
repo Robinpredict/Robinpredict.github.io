@@ -14,7 +14,7 @@ Hi! I received my BEng degree from Jilin University, China. Then, I received the
 
 My research interests include machine learning, randomized neural networks, time series forecasting, and artificial intelligence for the maritime industry.
 
-## Some Publications
+## Selected Publications
 
 Gao, R., Li, R., Hu, M., Suganthan, P. N., & Yuen, K. F. (2023). Dynamic ensemble deep echo state network for significant wave height forecasting. Applied Energy, 329, 120261.
 
