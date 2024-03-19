@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [ruobin.gao@ntu.edu.sg](mailto:ruobin.gao@ntu.edu.sg)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+65-85862498](tel:+65-85862498)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Nanyang Technological University
 >
-> London
+> Singapore
 >
-> United Kingdom
+> Singapore
 
 ---
 
