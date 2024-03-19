@@ -17,6 +17,8 @@ Guest editor at [Information Fusion](https://www.sciencedirect.com/journal/infor
 
 Guest editor at [EAAI](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence), Topic: Advanced machine learning for the maritime industry
 
+Guest editor at [Computers & Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering), Topic: Randomization-Based Deep and Shallow Learning Algorithms
+
 Session chair at ICONIP 2023.
 
 ## Research Interest
