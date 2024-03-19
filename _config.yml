@@ -1,6 +1,6 @@
 title: Time series
 url: "https://robinpredict.github.io/"
-baseurl: "/researcher"
+#baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
