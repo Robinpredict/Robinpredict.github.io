@@ -31,3 +31,5 @@ You can find the text at [Here](https://www.sciencedirect.com/science/article/ab
 Luo, X., Gao, R., Chen, H. H., Chen, S., Guo, Q., & Suganthan, P. N. (2022). Multi-modal and multi-user semantic communications for channel-level information fusion. IEEE Wireless Communications.
 
 You can find the text at [Here](https://ieeexplore.ieee.org/abstract/document/9921202/)
+
+Li, R., Gao, R., Suganthan, P. N., Cui, J., Sourina, O., & Wang, L. (2023). A spectral-ensemble deep random vector functional link network for passive brain–computer interface. Expert Systems with Applications, 227, 120279.
