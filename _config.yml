@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "https://robinpredict.github.io/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Resume in Chinese"
+   link: "高若滨简历.pdf"
  - name: "Contact"
    link: "contact"
