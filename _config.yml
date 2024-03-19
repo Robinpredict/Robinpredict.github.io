@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Time series
+url: "https://robinpredict.github.io/"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://robinpredict.github.io/"
+footer_text: "Homepage for Ruobin Gao"
 
 sass:
     style: compressed
