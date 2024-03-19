@@ -35,6 +35,10 @@ Snasel, V., Štěpnička, M., Ojha, V., Suganthan, P. N., Gao, R., & Kong, L. (2
 
 Wu, Y., Fan, M., Cao, Z., Gao, R., Hou, Y., & Sartoretti, G. (2023, December). Collaborative Deep Reinforcement Learning for Solving Multi-Objective Vehicle Routing Problems. In 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS).
 
+Gao, R., Li, R., Hu, M., Suganthan, P. N., & Yuen, K. F. (2023). Online dynamic ensemble deep random vector functional link neural network for forecasting. Neural Networks, 166, 51-69.
+
+Liang, M., Weng, L., Gao, R., Li, Y., & Du, L. (2024). Unsupervised maritime anomaly detection for intelligent situational awareness using AIS data. Knowledge-Based Systems, 284, 111313.
+
 
 
 
