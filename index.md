@@ -6,13 +6,14 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc degree from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore. My Ph.D. was obtained from the School of Civil and Environmental Engineering, Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. He am the guest editor of Information Fusion and Engineering Applications of Artificial Intelligence. I am the chair of an invited session at ICONIP 2023. ![image](https://github.com/Robinpredict/Robinpredict.github.io/assets/43084921/a8bb62dc-5653-44c0-8d18-5522d67f1f53)
+
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+His research interests include machine learning, randomized neural networks, time series forecasting, and artificial intelligence for the maritime industry.
 
 ## Publications
 
