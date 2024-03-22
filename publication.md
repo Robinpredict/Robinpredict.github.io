@@ -48,6 +48,10 @@ Li, R., Gao, R., Suganthan, P. N., Cui, J., Sourina, O., & Wang, L. (2023). A sp
 
 [Text](https://www.sciencedirect.com/science/article/pii/S0957417423007819)
 
+Gao, R., Cheng, W. X., Suganthan, P. N., & Yuen, K. F. (2022). Inpatient discharges forecasting for Singapore hospitals by machine learning. IEEE Journal of Biomedical and Health Informatics, 26(10), 4966-4975.
+
+[Text](https://ieeexplore.ieee.org/abstract/document/9770332) [Codes](https://github.com/P-N-Suganthan/CODES/blob/master/2022-JBHI-edRVFL-ICU.zip)
+
 Li, R., Gao, R., & Suganthan, P. N. (2023). A decomposition-based hybrid ensemble CNN framework for driver fatigue recognition. Information Sciences, 624, 833-848.
 
 [Text](https://www.sciencedirect.com/science/article/pii/S0020025522015833) [Codes](https://github.com/P-N-Suganthan/CODES/blob/master/2023-INS-DECNN.zip)
