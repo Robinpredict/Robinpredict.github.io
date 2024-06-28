@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="GRB.jpg">
 
-Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc and Ph.D. degree from  Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. I am the guest editor of Information Fusion and Engineering Applications of Artificial Intelligence. I am the chair of an invited session at ICONIP 2023.
+Hi! I received my BEng degree from Jilin University, China. Then, I received the MSc and Ph.D. degree from  Nanyang Technological University, Singapore. I am an Associate Editor at Computers and Electrical Engineering. I am the guest editor of Information Fusion, Engineering Applications of Artificial Intelligence, and Frontiers in Marine Science. I am the chair of an invited session at ICONIP 2023/2024.
 
 My Ph.D. was co-supervised by [Prof. Suganthan](https://scholar.google.com/citations?user=yZNzBU0AAAAJ&hl=zh-CN) (IEEE Fellow), [Asst Prof. Yuen Kum Fai](https://dr.ntu.edu.sg/cris/rp/rp00720), and [Dr. Okan Duru](https://scholar.google.se/citations?user=JT_KdJgAAAAJ&hl=en). You can find the full publication list at my [Google Scholar](https://scholar.google.se/citations?user=PrIHu7QAAAAJ&hl=en&oi=ao).
 
@@ -19,7 +19,9 @@ Guest editor at [EAAI](https://www.sciencedirect.com/journal/engineering-applica
 
 Guest editor at [Computers & Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering), Topic: Randomization-Based Deep and Shallow Learning Algorithms
 
-Session chair at ICONIP 2023.
+Guest editor at [Frontiers in Marine Science](https://www.frontiersin.org/research-topics/65506/emerging-computational-intelligence-techniques-to-address-challenges-in-oceanic-computing), Topic: Emerging Computational Intelligence Techniques to Address Challenges in Oceanic Computing
+
+Session chair at ICONIP 2023/2024.
 
 Reviewers for IEEE TNNLS, T-SMC-Systems, TVT, TFS; Elsevier PRJ, ASOC, EAAI, CAEE, APEN; Springer NCAA; PVLDB, CIKM
 
